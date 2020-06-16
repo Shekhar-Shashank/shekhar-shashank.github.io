@@ -9,7 +9,7 @@ body
 #header
 {
 	height: 100vh;
-	background: url(4.jpeg);
+	background: url(4.png);
 	background-position: center;
 	background-size: cover;
 	background-attachment: fixed;  
@@ -187,7 +187,7 @@ body
 .contact
 {
 	padding-top: 50px;
-	background: url(1.jpeg);
+	background: url(1.png);
 	background-position: center;
 	background-size: cover;
 	background-attachment: fixed;  
